@@ -1,4 +1,4 @@
-# Magenta
+# Mygenta
 
 Magenta is the core platform that powers the Fuchsia OS.  Magenta is
 composed of a microkernel (source in kernel/...) as well as a small
