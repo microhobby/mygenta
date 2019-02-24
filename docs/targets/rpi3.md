@@ -1,6 +1,6 @@
-#  Magenta on Raspberry Pi 3
+#  Mygenta on Raspberry Pi 3
 
-Magenta is a 64-bit kernel that is capable of running on the Raspberry Pi 3.
+Mygenta is a 64-bit kernel that is capable of running on the Raspberry Pi 3.
 
 Presently it supports a number of the Raspberry Pi 3's peripherals including
 the following:
