@@ -61,7 +61,8 @@ void lk_main(void)
     lk_primary_cpu_init_level(LK_INIT_LEVEL_PLATFORM_EARLY, LK_INIT_LEVEL_TARGET_EARLY - 1);
     target_early_init();
 
-    dprintf(INFO, "\nwelcome to lk/MP\n\n");
+    dprintf(INFO, "\nwelcome to lk/MP\n");
+    dprintf(INFO, "\nMicrohobby Mygenta v0.1\n\n");
 
     // bring up the kernel heap
     lk_primary_cpu_init_level(LK_INIT_LEVEL_TARGET_EARLY, LK_INIT_LEVEL_HEAP - 1);
